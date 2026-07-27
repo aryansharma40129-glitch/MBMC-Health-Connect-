@@ -1,0 +1,10 @@
+{
+  "name": "Remix: MBMC Health-Link",
+  "description": "A multilingual mobile app for citizens to link ABHA ID, store medical records, and share medical history via QR code.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
